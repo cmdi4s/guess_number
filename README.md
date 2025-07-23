@@ -30,7 +30,7 @@ This algorithm has a time complexity of O(log n), making it efficient for large 
 
 ## Example Output
 
-The lowest value on the list is ? 1
-The highest value on the list is ? 100
-The secret number is: 47
-The result is: 46 in 6 steps
+- The lowest value on the list is ? 1
+- The highest value on the list is ? 100
+- The secret number is: 18
+- The result is: 18 in 4 steps
