@@ -26,4 +26,4 @@ random_number = random.randint(low_range,high_range)
 result, num_steps = search_number(list_numbers,random_number)
 
 print(f"The secret number is: {random_number}")
-print(f"The result is: {result} in {num_steps} steps")
+print(f"The result is: {result+1} in {num_steps} steps")
